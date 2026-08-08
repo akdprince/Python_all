@@ -1,6 +1,6 @@
 #calling an external module from another module
 
-# import myModule
+import myModule
 # myModule.hello_anik("Anik Kumar Das")
 # myModule.bye_anik("Wrishab Kumar Das")
 
