@@ -1,10 +1,10 @@
 import shutil
 
-# # Copy a single file preserving metadata
+# # Copy a single file to another file
 # shutil.copy2("/home/anik/python/Python_all/Module/Shutil/source.txt", "/home/anik/python/Python_all/Module/Shutil/backup_source.txt")
 
-# # Copy an entire folder and its contents
-# shutil.copytree("/home/anik/python/Python_all/Module/Shutil/Test", "/home/anik/python/Python_all/Module/Shutil/Test2")
+# # Copy an entire folder and its contents to a new folder
+# shutil.copytree("/home/anik/lab/python/Module/Shutil/Test2", "/home/anik/lab/python/Module/Shutil/Test4")
 
 # # Move a file or directory to a new location
 # shutil.move("/home/anik/python/Python_all/Module/Shutil/Test/hello.txt", "/home/anik/python/Python_all/Module/Shutil/Test2/")
@@ -24,5 +24,5 @@ total, used, free = shutil.disk_usage(".")
 print(f"Total free Space: {free}")
 print(f"Free space: {free // (2**30)} GB") # 2**30 means 2 to the power of 30, which is the number of bytes in a gigabyte.
     
-# Find where python or git executable is located
-print(shutil.which("git"))  # e.g., '/usr/bin/git'
+# # Find where python or git executable is located
+# print(shutil.which("git"))  # e.g., '/usr/bin/git'

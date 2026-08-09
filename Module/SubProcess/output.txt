@@ -1,14 +1,8 @@
 total 28
 drwxrwxrwx 7 root root 4096 Aug  8 23:50 .
 drwxrwxrwx 5 root root 4096 Aug  1 07:55 ..
-drwxrwxrwx 7 
-anik
-anik
-4096 Aug  8 23:32 .git
-drwxrwxrwx 4 
-anik
-anik
-4096 Aug  8 23:32 Module
+drwxrwxrwx 7 anik anik 4096 Aug  9 22:57 .git
+drwxrwxrwx 6 anik anik 4096 Aug  9 22:57 Module
 drwxrwxrwx 2 root root 4096 Aug  5 11:54 basic
-drwxrwxrwx 2 root root 4096 Aug  5 11:54 file_handling
+drwxrwxrwx 2 root root 4096 Aug  9 00:14 file_handling
 drwxrwxrwx 2 root root 4096 Aug  5 11:57 functions
