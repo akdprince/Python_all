@@ -20,9 +20,13 @@ import shutil
 
 
 # Check disk space on current drive
-total, used, free = shutil.disk_usage(".")
-print(f"Total free Space: {free}")
-print(f"Free space: {free // (2**30)} GB") # 2**30 means 2 to the power of 30, which is the number of bytes in a gigabyte.
+# total, used, free = shutil.disk_usage(".")
+# print(f"Total free Space: {free}")
+# print(f"Free space: {free // (2**30)} GB") # 2**30 means 2 to the power of 30, which is the number of bytes in a gigabyte.
     
 # # Find where python or git executable is located
 # print(shutil.which("git"))  # e.g., '/usr/bin/git'
+
+#How to copy meta data to another file
+
+shutil.copystat("/home/anik/lab/python/Module/Shutil/source.txt", "/home/anik/lab/python/Module/Shutil/backup_source.txt")  # Copy metadata from source.txt to backup_source.txt

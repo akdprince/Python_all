@@ -1,0 +1,24 @@
+{
+    "people": [
+        {
+            "name": "Anik",
+            "age": 29,
+            "city": "Dhaka"
+        },
+        {
+            "name": "Krishna",
+            "age": 5100,
+            "city": "Vrindavan"
+        },
+        {
+            "name": "Rama",
+            "age": 1000050,
+            "city": "Ayodhya"
+        },
+        {
+            "name": "Sita",
+            "age": 1000000,
+            "city": "Mithila"
+        }
+    ]
+}
