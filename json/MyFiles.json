@@ -3,22 +3,26 @@
         {
             "name": "Anik",
             "age": 29,
-            "city": "Dhaka"
+            "city": "Dhaka",
+            "country": true
         },
         {
             "name": "Krishna",
             "age": 5100,
-            "city": "Vrindavan"
+            "city": "Vrindavan",
+            "country": false
         },
         {
             "name": "Rama",
             "age": 1000050,
-            "city": "Ayodhya"
+            "city": "Ayodhya",
+            "country": false
         },
         {
             "name": "Sita",
             "age": 1000000,
-            "city": "Mithila"
+            "city": "Mithila",
+            "country": false
         }
     ]
 }
