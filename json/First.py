@@ -1,6 +1,7 @@
 import json
 
-MyFiles = { 
+
+Json_string  = { 
     "people":[
 
         {
@@ -33,12 +34,14 @@ MyFiles = {
 }
 
 
-json_string = json.dumps(MyFiles, indent=4)
+
+# json_data= json.dumps(MyFiles, indent=4)
 
 # with open("/home/anik/lab/python/json/MyFiles.json", "w") as f:
 #     f.write(json_string)
 
-data = json.loads(json_string)
+data = json.loads(json.dumps(Json_string))
+print(data['people'])
 
-for person in data['people']:
-    print(person['name'])
+# for person in data['people']:
+#     print(person['name'])
