@@ -6,8 +6,8 @@ import subprocess
 
 #below code will create a file output.txt and write the output of the command "ls -la" into that file
 
-# with open("/home/anik/lab/python/Module/SubProcess/output.txt", "w") as f:
-#     p1 = subprocess.run(["ls", "-la"], stdout=f, text=True) #third process
+with open("/home/anik/lab/python/Module/SubProcess/output.txt", "a") as f:
+    p1 = subprocess.run(["ls", "-la"], stdout=f, text=True) #third process
 
 # Show result from the first output file to the second output file and check data with input from the first output file
 

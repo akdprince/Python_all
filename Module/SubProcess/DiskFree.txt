@@ -1,0 +1,48 @@
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         250G  201G   49G  81% /usr/lib/wsl/drivers
+/dev/sdd       1007G  3.5G  953G   1% /
+none            3.9G  108K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  3.6M  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             250G  201G   49G  81% /mnt/c
+D:\             341G  281G   61G  83% /mnt/d
+tmpfs           3.9G  292K  3.9G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none            1.0M     0  1.0M   0% /run/credentials/console-getty.service
+tmpfs           782M   12K  782M   1% /run/user/1000
+=== Disk Free: 2026_08_17 17_49_37 === 
+
+
+=== Disk Free: 2026_08_17 17_59_41 === 
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         250G  201G   49G  81% /usr/lib/wsl/drivers
+/dev/sdd       1007G  3.5G  953G   1% /
+none            3.9G  108K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.7M  3.9G   1% /init
+none            3.9G  3.6M  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             250G  201G   49G  81% /mnt/c
+D:\             341G  281G   61G  83% /mnt/d
+tmpfs           3.9G  292K  3.9G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none            1.0M     0  1.0M   0% /run/credentials/console-getty.service
+tmpfs           782M   12K  782M   1% /run/user/1000
+
+

@@ -1,0 +1,18 @@
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       2.6Gi       4.8Gi       6.8Mi       406Mi       5.0Gi
+Swap:          2.0Gi          0B       2.0Gi
+=== Memory Report: 2026-08-17 17:49:19 ===
+
+
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       2.6Gi       4.8Gi       6.8Mi       413Mi       5.0Gi
+Swap:          2.0Gi          0B       2.0Gi
+=== Memory Report: 2026-08-17 17:49:37 ===
+
+
+=== Memory Report: 2026-08-17 17:59:41 ===
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       2.9Gi       4.5Gi       6.8Mi       414Mi       4.8Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+
